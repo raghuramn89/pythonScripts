@@ -1,3 +1,4 @@
+#!/usr/bin/python3.8
 # Simple local interest. We give input interest in rupees.
 print('Enter per month interest for 100 rupees')
 interest_100=input()
